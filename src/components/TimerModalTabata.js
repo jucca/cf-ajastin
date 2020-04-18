@@ -94,7 +94,7 @@ export const TimerModalTabata = (props) => {
                                 <Button className="timer-modal-tabata-seconds-button" onClick={removeWork} color="secondary">-</Button>
                             </Col>
                             <Col>
-                                <div className="timer-modal-tabata-time">{state.work} seconds, WORK</div>
+                                <div className="timer-modal-tabata-time">{state.work} sekuntia, TYÖTÄ</div>
                             </Col>
                         </Row>
                         <Row>
@@ -103,7 +103,7 @@ export const TimerModalTabata = (props) => {
                                 <Button className="timer-modal-tabata-seconds-button" onClick={removeRest} color="secondary">-</Button>
                             </Col>
                             <Col>
-                                <div className="timer-modal-tabata-time">{state.rest} seconds, REST</div>
+                                <div className="timer-modal-tabata-time">{state.rest} sekuntia, LEPOA</div>
                             </Col>
                         </Row>
                         <Row className="timer-modal-tabata-rounds">
@@ -116,7 +116,7 @@ export const TimerModalTabata = (props) => {
                                     onChange={({ x }) => handleRoundsChange(x)}/>
                             </Col>
                             <Col>
-                                <div className="timer-modal-tabata-rounds">{state.rounds} rounds</div>
+                                <div className="timer-modal-tabata-rounds">{state.rounds} kierrosta</div>
                             </Col>
                         </Row>
                     </Container>    

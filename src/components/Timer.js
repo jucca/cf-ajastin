@@ -170,13 +170,13 @@ export default class Timer extends React.Component {
               <Button color="success" onClick={this.startTimer}>START</Button>
             )}
             {this.state.timerOn === true && this.state.time >= 1000 && (
-              <Button color="danger" onClick={this.stopTimer}>STOP</Button>
+              <Button color="danger" onClick={this.stopTimer}>LOPETA</Button>
             )}
             {this.state.timerOn === false && (this.state.init !== this.state.time && this.state.time !== 0) && (
-              <Button color="info" onClick={this.startTimer}>RESUME</Button>
+              <Button color="info" onClick={this.startTimer}>JATKA</Button>
             )}
             {(this.state.timerOn === false) && (this.state.time !== this.state.init) && (
-              <Button color="secondary" onClick={this.resetTimer}>RESET</Button>
+              <Button color="secondary" onClick={this.resetTimer}>PERUUTA</Button>
             )}
           </div>
           <div className="timer-display">

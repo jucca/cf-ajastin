@@ -60,7 +60,7 @@ export const TimerModalEmom = (props) => {
                                     <Button className="timer-modal-emom-rounds-button" onClick={removeItem} color="secondary">-</Button>
                                 </Col>
                                 <Col>
-                                    <div className="timer-modal-emom-rounds">{state.rounds.length} rounds</div>
+                                    <div className="timer-modal-emom-rounds">{state.rounds.length} kierrosta</div>
                                 </Col>
                             </Row>
                             <Row className="timer-modal-emom-rounds-details">

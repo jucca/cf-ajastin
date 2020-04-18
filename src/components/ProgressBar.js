@@ -14,7 +14,7 @@ export default class ProgressBar extends React.Component {
               <Progress animated striped bar color={this.props.colorCompleted} value={this.props.percentageCompleted} />
               <Progress animated striped bar color={this.props.colorRemaining} value={remainingPercentage}/>
             </Progress>
-            <div className="timer-progress-bar-percentage">{this.props.percentageCompleted}% completed</div>
+            <div className="timer-progress-bar-percentage">{this.props.percentageCompleted}% valmista</div>
           </div>
         );
     }

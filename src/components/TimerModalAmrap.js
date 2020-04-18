@@ -53,7 +53,7 @@ export const TimerModalAmrap = (props) => {
             title={props.title}
             body={
                 <div>
-                    <div className="timer-modal-amrap-minutes">{state.x} minutes</div>
+                    <div className="timer-modal-amrap-minutes">{state.x} minuutit</div>
                     <Slider
                         styles={sliderStyle}
                         x={state.x}
@@ -66,7 +66,7 @@ export const TimerModalAmrap = (props) => {
                         name="wodName"
                         type="text" 
                         maxlength="22"
-                        placeholder="shut up and train"
+                        placeholder="Mikä wod on kyseessä?"
                         onChange={event => handleInputChange(event)}/>
                 </div>
             }/> 
