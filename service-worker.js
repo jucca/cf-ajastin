@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cf-ajastin/precache-manifest.61890f90b9b54b42a1cda1c630a23d25.js"
+  "/cf-ajastin/precache-manifest.d21bcb56c62c094c19858dc33dda0d53.js"
 );
 
 self.addEventListener('message', (event) => {
