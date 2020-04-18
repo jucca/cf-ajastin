@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cf-ajastin/static/css/main.1bcc77b1.chunk.css",
+    "main.js": "/cf-ajastin/static/js/main.103863ec.chunk.js",
+    "main.js.map": "/cf-ajastin/static/js/main.103863ec.chunk.js.map",
+    "runtime-main.js": "/cf-ajastin/static/js/runtime-main.cf1a79db.js",
+    "runtime-main.js.map": "/cf-ajastin/static/js/runtime-main.cf1a79db.js.map",
+    "static/css/2.02c24866.chunk.css": "/cf-ajastin/static/css/2.02c24866.chunk.css",
+    "static/js/2.86f35d1e.chunk.js": "/cf-ajastin/static/js/2.86f35d1e.chunk.js",
+    "static/js/2.86f35d1e.chunk.js.map": "/cf-ajastin/static/js/2.86f35d1e.chunk.js.map",
+    "index.html": "/cf-ajastin/index.html",
+    "precache-manifest.61890f90b9b54b42a1cda1c630a23d25.js": "/cf-ajastin/precache-manifest.61890f90b9b54b42a1cda1c630a23d25.js",
+    "service-worker.js": "/cf-ajastin/service-worker.js",
+    "static/css/2.02c24866.chunk.css.map": "/cf-ajastin/static/css/2.02c24866.chunk.css.map",
+    "static/css/main.1bcc77b1.chunk.css.map": "/cf-ajastin/static/css/main.1bcc77b1.chunk.css.map",
+    "static/js/2.86f35d1e.chunk.js.LICENSE": "/cf-ajastin/static/js/2.86f35d1e.chunk.js.LICENSE",
+    "static/media/App.css": "/cf-ajastin/static/media/TimerFont.a6bec1c4.ttf",
+    "static/media/Workout.css": "/cf-ajastin/static/media/background-photo.91b86784.jpg",
+    "static/media/beep.mp3": "/cf-ajastin/static/media/beep.c5d5cada.mp3",
+    "static/media/final_beep.mp3": "/cf-ajastin/static/media/final_beep.eef56b30.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf1a79db.js",
+    "static/css/2.02c24866.chunk.css",
+    "static/js/2.86f35d1e.chunk.js",
+    "static/css/main.1bcc77b1.chunk.css",
+    "static/js/main.103863ec.chunk.js"
+  ]
+}
