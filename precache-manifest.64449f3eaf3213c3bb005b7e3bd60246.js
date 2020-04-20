@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01a4ddc2949c299fd87565d9e44ef11f",
+    "revision": "9eb79ae0f541b9e2c8d12e097e8f4cee",
     "url": "/cf-ajastin/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cf-ajastin/static/css/2.02c24866.chunk.css"
   },
   {
-    "revision": "2eb9abdd89612609ba32",
+    "revision": "d152d6d76905cad39175",
     "url": "/cf-ajastin/static/css/main.053b1be3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cf-ajastin/static/js/2.e901098a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2eb9abdd89612609ba32",
-    "url": "/cf-ajastin/static/js/main.ae90b0dc.chunk.js"
+    "revision": "d152d6d76905cad39175",
+    "url": "/cf-ajastin/static/js/main.367397f7.chunk.js"
   },
   {
     "revision": "9afa77dd856fdf3ad333",
